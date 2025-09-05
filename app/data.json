@@ -1,11 +1,10 @@
 {
-    "name":"Rajolu Gowtham",
-    "email":"gowthamrajolu@gmail.com",
-    "github":"https://github.com/gowtham-rajolu",
-    "linkedin":"https://www.linkedin.com/in/gowtham-rajolu-242218218/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwSgNoTg%2BSuaNHIECSx8GLA%3D%3D",
-    "youtube":"https://www.youtube.com/@gowtham_nani_",
-    "instagram":"https://www.instagram.com/_._gowtham_nani_._/?igsh=bDZ3OW02Nml1M2xn#",
-    "roles":["Frontend Developer","Backend Developer","Full Stack Developer","Designer", "Ethical Hacker","AI Engineer","and more..."],
+    "name":"Somarouthu Likhita",
+    "email":"likhitasomarouthu@gmail.com",
+    "github":"https://github.com/Likhita12-creator",
+    "linkedin":"https://www.linkedin.com/in/likhita-somarouthu-8b101826a/",
+    "instagram":"https://www.instagram.com/likhita_somarouthu?igsh=c255ZGYzcHRraGdo",
+    "roles":["Frontend Developer","Designer","Data Analyst","and more..."],
     "projects": [
     {
       "title": "Voice-Based Virtual Assistant",
@@ -55,5 +54,5 @@
     }
 
   ],
- "about": "Hi, I’m Gowtham Rajolu, a Computer Science student with a passion for building intelligent, user-centric digital solutions. I work with modern web and AI technologies like Next.js, Streamlit, and FastAPI, focusing on automation, responsive design, and seamless user experience. I enjoy combining software development with emerging tools in AI to create smart and scalable applications.\n\nBeyond tech, I’m also a professional photographer, videographer, and editor, skilled in capturing and crafting compelling visual stories. My dual interest in technology and creativity helps me bring a balanced and unique approach to everything I build—whether it's code or content.\n\nI'm continuously learning, exploring new tools, and pushing myself to grow in both the tech and creative fields."
+ "about": "Hi, I’m Likhita Somarouthu, a Computer Science student with a passion for building intelligent, user-centric digital solutions. I work with modern web and AI technologies like Next.js, Streamlit, and FastAPI, focusing on automation, responsive design, and seamless user experience. I enjoy combining software development with emerging tools in AI to create smart and scalable applications.\n\nBeyond tech, I’m also a professional photographer, videographer, and editor, skilled in capturing and crafting compelling visual stories. My dual interest in technology and creativity helps me bring a balanced and unique approach to everything I build—whether it's code or content.\n\nI'm continuously learning, exploring new tools, and pushing myself to grow in both the tech and creative fields."
 }
