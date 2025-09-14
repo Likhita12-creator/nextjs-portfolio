@@ -7,9 +7,9 @@
     "roles":["Frontend Developer","Designer","Data Analyst","and more..."],
     "projects": [
     {
-      "title": "Voice-Based Virtual Assistant",
-      "description": "This project aims to develop a voice-based virtual assistant that can assist with various tasks on a computer or smart home system. The assistant responds to voice commands and provides functionalities such as launching applications, managing files, sending emails, providing weather updates, and much more.",
-      "link": "",
+      "title": "Market Bill Generation",
+      "description": "The Market Bill Generation System is a simple application that automates the process of generating customer bills in a retail store or supermarket. Instead of calculating totals manually, this project allows shopkeepers or billing staff to enter product details and instantly generate a clear and structured bill.",
+      "link": "https://github.com/Likhita12-creator/market-bill-generation",
     }
   ],
  "about": "Hi, I’m Likhita Somarouthu, a Computer Science student with a passion for building intelligent, user-centric digital solutions. I work with modern web and AI technologies like Next.js, Streamlit, and FastAPI, focusing on automation, responsive design, and seamless user experience. I enjoy combining software development with emerging tools in AI to create smart and scalable applications.\n\nBeyond tech, I’m also a professional photographer, videographer, and editor, skilled in capturing and crafting compelling visual stories. My dual interest in technology and creativity helps me bring a balanced and unique approach to everything I build—whether it's code or content.\n\nI'm continuously learning, exploring new tools, and pushing myself to grow in both the tech and creative fields."
