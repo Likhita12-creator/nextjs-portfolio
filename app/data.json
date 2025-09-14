@@ -10,6 +10,21 @@
       "title": "Market Bill Generation",
       "description": "The Market Bill Generation System is a simple application that automates the process of generating customer bills in a retail store or supermarket. Instead of calculating totals manually, this project allows shopkeepers or billing staff to enter product details and instantly generate a clear and structured bill.",
       "link": "https://github.com/Likhita12-creator/market-bill-generation"
+    },
+    {
+      "title":"Object Recognition",
+      "description":"The Object Recognition System is a computer vision project that automatically identifies and classifies objects within images or video streams. It leverages machine learning and deep learning techniques to detect real-world objects, making it useful for applications such as surveillance, automation, and smart systems.",
+      "link":"https://github.com/Likhita12-creator/object-recognition"
+    },
+    {
+      "title":"Angular Clock",
+      "description":"The Angular Clock project is a simple yet interactive web application built using Angular. It displays a real-time digital/analog clock that updates dynamically, demonstrating the use of Angular components, data binding, and lifecycle hooks. This project is ideal for understanding how Angular handles real-time updates and DOM manipulation.",
+      "link":"https://github.com/Likhita12-creator/Angular-Clock"
+    },
+    {
+      "title":"URL_Shorter",
+      "description":"The URL Shortener is a web application that converts long and complex URLs into short, shareable links. It helps users manage and share links easily while optionally tracking the number of visits. This project demonstrates concepts of backend APIs, database handling, and frontend integration.",
+      "link":"https://github.com/Likhita12-creator/URL_Shorter"
     }
   ],
  "about": "Hi, I’m Likhita Somarouthu, a Computer Science student with a passion for building intelligent, user-centric digital solutions. I work with modern web and AI technologies like Next.js, Streamlit, and FastAPI, focusing on automation, responsive design, and seamless user experience. I enjoy combining software development with emerging tools in AI to create smart and scalable applications.\n\nBeyond tech, I’m also a professional photographer, videographer, and editor, skilled in capturing and crafting compelling visual stories. My dual interest in technology and creativity helps me bring a balanced and unique approach to everything I build—whether it's code or content.\n\nI'm continuously learning, exploring new tools, and pushing myself to grow in both the tech and creative fields."
